@@ -1,0 +1,32 @@
+#main {
+    text-align: center;
+    background-color: #d6acac;
+    margin: 10px auto;
+    border-radius: 10px;
+    font-size : 2rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+  #title {
+    text-align: Monospace;
+    font-size: 5rem;
+  }
+  #title-info {
+    line-height: 8%;
+
+  }
+  #list{
+    text-indent: 100px;
+    border-color: black solid;
+  }
+  #ol{
+    list-style: none;
+  }
+  #ul{
+    list-style: none;
+    
+  }
+  
+  .intro{
+    font-size: .5rem;
+  }
